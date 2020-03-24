@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5431c06e-091e-4daf-b0ad-6ff8d6ea34b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/security/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/security/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/security/controller/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/security/controller/RegistrationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/security/repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/security/repository/RoleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/security/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/security/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/security/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/security/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,26 +40,58 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-reg-auth" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-security" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -67,6 +107,7 @@
       <updated>1584671698584</updated>
       <workItem from="1584671702503" duration="2680000" />
       <workItem from="1584674440282" duration="8713000" />
+      <workItem from="1585011389195" duration="5804000" />
     </task>
     <servers />
   </component>
@@ -85,5 +126,67 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585015184716">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1585015184716" />
+    <state width="1807" height="774" key="GridCell.Tab.0.bottom" timestamp="1585016269777">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="774" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585016269777" />
+    <state width="1807" height="774" key="GridCell.Tab.0.center" timestamp="1585016269776">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="774" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585016269776" />
+    <state width="1807" height="774" key="GridCell.Tab.0.left" timestamp="1585016269776">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="774" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585016269776" />
+    <state width="1807" height="774" key="GridCell.Tab.0.right" timestamp="1585016269777">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="774" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585016269777" />
+    <state width="1807" height="774" key="GridCell.Tab.1.bottom" timestamp="1585016296394">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="774" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585016296394" />
+    <state width="1807" height="774" key="GridCell.Tab.1.center" timestamp="1585016296394">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="774" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585016296394" />
+    <state width="1807" height="774" key="GridCell.Tab.1.left" timestamp="1585016296393">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="774" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585016296393" />
+    <state width="1807" height="774" key="GridCell.Tab.1.right" timestamp="1585016296394">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="774" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585016296394" />
+    <state width="1807" height="774" key="GridCell.Tab.2.bottom" timestamp="1585016269637">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="774" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585016269637" />
+    <state width="1807" height="774" key="GridCell.Tab.2.center" timestamp="1585016269637">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="774" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585016269637" />
+    <state width="1807" height="774" key="GridCell.Tab.2.left" timestamp="1585016269637">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="774" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585016269637" />
+    <state width="1807" height="774" key="GridCell.Tab.2.right" timestamp="1585016269637">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="774" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585016269637" />
+    <state x="482" y="187" width="1024" height="845" key="SettingsEditor" timestamp="1585012017027">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1585012017027" />
+    <state x="302" y="251" width="1372" height="603" key="new project wizard" timestamp="1585018663997">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="251" width="1372" height="603" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1585018663997" />
   </component>
 </project>
